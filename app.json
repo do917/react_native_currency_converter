@@ -1,4 +1,9 @@
 {
   "name": "currencyConverter",
-  "displayName": "currencyConverter"
+  "displayName": "currencyConverter",
+  "expo": {
+    "sdkVersion": "16.0.0",
+    "orientation": "portrait",
+    "privacy": "public"
+  }
 }

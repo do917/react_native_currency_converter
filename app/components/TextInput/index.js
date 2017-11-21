@@ -1,4 +1,4 @@
 import InputWithButton from './InputWithButton';
 import styles from './styles';
 
-export { InputWithButton, styes } 
+export { InputWithButton, styles } 
